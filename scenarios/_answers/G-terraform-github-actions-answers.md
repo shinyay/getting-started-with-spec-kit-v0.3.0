@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Terraform + GitHub Actions — Answer Key"
+parent_step: 12
+permalink: /cheatsheet/12/
+---
+
 # Scenario G — Facilitator Answer Key: Terraform + GitHub Actions Multi-Environment Infrastructure
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

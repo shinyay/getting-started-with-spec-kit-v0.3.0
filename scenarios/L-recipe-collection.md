@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario L: RecipeBox — Recipe Collection + Meal Planner"
+step_number: 4
+permalink: /steps/4/
+---
+
 # Scenario L: Recipe Collection & Meal Planner
 
 | | |

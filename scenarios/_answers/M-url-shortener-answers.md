@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "ShortLink — Answer Key"
+parent_step: 6
+permalink: /cheatsheet/6/
+---
+
 # Scenario M: URL Shortener — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

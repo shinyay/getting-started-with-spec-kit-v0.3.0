@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Collaborative Whiteboard — Answer Key"
+parent_step: 14
+permalink: /cheatsheet/14/
+---
+
 # Scenario E: Collaborative Whiteboard — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

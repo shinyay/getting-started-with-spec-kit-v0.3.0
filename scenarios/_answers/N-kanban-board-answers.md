@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "KanbanFlow — Answer Key"
+parent_step: 7
+permalink: /cheatsheet/7/
+---
+
 # Scenario N: Kanban Board — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

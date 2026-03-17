@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Scenario Directory"
+permalink: /scenarios/
+---
+
 # 🎯 Workshop Scenarios
 
 > **Pick a scenario. Learn Spec-Driven Development by building something real.**

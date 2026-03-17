@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "OIDC SSO + RBAC — Answer Key"
+parent_step: 10
+permalink: /cheatsheet/10/
+---
+
 # Scenario C — Facilitator Answer Key: Brownfield OIDC SSO + RBAC
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

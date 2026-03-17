@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario K: MarkdownPad — Note-Taking App with Preview"
+step_number: 3
+permalink: /steps/3/
+---
+
 # Scenario K: Markdown Note-Taking App
 
 | | |

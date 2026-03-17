@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario A: QuickRetro — Team Retrospective Board"
+step_number: 1
+permalink: /steps/1/
+---
+
 # Scenario A: QuickRetro — Team Retrospective Board
 
 | | |

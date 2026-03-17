@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario N: KanbanFlow — Task Board with Drag-and-Drop"
+step_number: 7
+permalink: /steps/7/
+---
+
 # Scenario N: Kanban Task Board with Server Persistence
 
 | | |

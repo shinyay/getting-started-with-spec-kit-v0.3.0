@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario J: Pomodoro Timer — Focus Timer + Task Tracker"
+step_number: 2
+permalink: /steps/2/
+---
+
 # Scenario J: Pomodoro Timer + Task Board
 
 | | |

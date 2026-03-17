@@ -1,0 +1,51 @@
+remote_theme: shinyay/workshop-pages-theme
+
+title: "Getting Started with Spec Kit v0.3.0"
+description: "A hands-on workshop for Spec-Driven Development — 18 scenarios across 4 difficulty levels"
+url: "https://shinyay.github.io"
+baseurl: "/getting-started-with-spec-kit-v0.3.0"
+
+workshop:
+  title: "Getting Started with Spec Kit v0.3.0"
+  description: "Stop vibe coding. Start specifying. Learn Spec-Driven Development through 18 real-world scenarios."
+  category: devtools
+  tags:
+    - spec-driven-development
+    - copilot
+    - specification
+    - sdd
+    - spec-kit
+  difficulty: "Beginner to Expert"
+  duration: "90–120 min per scenario"
+  language: "Various (JavaScript, Node.js, Python)"
+  repository_url: "https://github.com/shinyay/getting-started-with-spec-kit-v0.3.0"
+  codespaces_url: "https://codespaces.new/shinyay/getting-started-with-spec-kit-v0.3.0"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-remote-theme
+
+include:
+  - scenarios/_answers
+
+exclude:
+  - slides/
+  - .devcontainer/
+  - .vscode/
+  - .editorconfig
+  - .marprc.yml
+  - .gitignore
+  - QR.png
+  - LICENSE
+  - "*.pdf"
+  - "*.py"
+  - "*.css"
+  - "*.sh"
+  - compose.yaml
+  - Dockerfile
+  - .env
+  - SLIDE-PLAN.md

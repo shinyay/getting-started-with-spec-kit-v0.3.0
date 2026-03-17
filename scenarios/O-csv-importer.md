@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario O: MoneyTrail — CSV Importer + Spending Reports"
+step_number: 8
+permalink: /steps/8/
+---
+
 # Scenario O: CSV Data Importer + Reporting Dashboard
 
 | | |

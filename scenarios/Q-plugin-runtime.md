@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario Q: PlugKit Runtime — Plugin Sandbox Platform"
+step_number: 17
+permalink: /steps/17/
+---
+
 # Scenario Q: Plugin Runtime with Sandboxed Execution
 
 | | |

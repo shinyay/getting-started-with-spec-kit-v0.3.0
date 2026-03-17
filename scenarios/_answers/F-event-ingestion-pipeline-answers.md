@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Event Ingestion Pipeline — Answer Key"
+parent_step: 15
+permalink: /cheatsheet/15/
+---
+
 # Scenario F: Event Ingestion Pipeline — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

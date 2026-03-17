@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "PlugKit Runtime — Answer Key"
+parent_step: 17
+permalink: /cheatsheet/17/
+---
+
 # Scenario Q: Plugin Runtime — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

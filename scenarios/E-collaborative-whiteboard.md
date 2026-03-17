@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario E: Collaborative Whiteboard — Real-Time Drawing Canvas"
+step_number: 14
+permalink: /steps/14/
+---
+
 # Scenario E: Real-time Collaborative Whiteboard
 
 | | |

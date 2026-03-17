@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario M: ShortLink — URL Shortener + Analytics"
+step_number: 6
+permalink: /steps/6/
+---
+
 # Scenario M: URL Shortener with Analytics API
 
 | | |

@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario B: Field Inspection PWA — Offline-First Mobile App"
+step_number: 9
+permalink: /steps/9/
+---
+
 # Scenario B: Offline-first Field Inspection PWA
 
 | | |

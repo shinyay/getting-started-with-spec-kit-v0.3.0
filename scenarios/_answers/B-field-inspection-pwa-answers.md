@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Field Inspection PWA — Answer Key"
+parent_step: 9
+permalink: /cheatsheet/9/
+---
+
 # Scenario B — Facilitator Answer Key: Offline-first Field Inspection PWA
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

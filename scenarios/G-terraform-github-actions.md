@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario G: Terraform + GitHub Actions — IaC Pipeline"
+step_number: 12
+permalink: /steps/12/
+---
+
 # Scenario G: Terraform + GitHub Actions Multi-Environment Infrastructure
 
 | | |

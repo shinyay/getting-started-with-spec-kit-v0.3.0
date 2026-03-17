@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Stripe Subscriptions — Answer Key"
+parent_step: 11
+permalink: /cheatsheet/11/
+---
+
 # Scenario D — Facilitator Answer Key: Stripe Subscriptions + Webhooks + Dunning
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

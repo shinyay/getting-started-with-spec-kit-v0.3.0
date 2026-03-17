@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "LogSaw CLI — Answer Key"
+parent_step: 5
+permalink: /cheatsheet/5/
+---
+
 # Scenario H: Cross-platform Log Analysis CLI — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "RecipeBox — Answer Key"
+parent_step: 4
+permalink: /cheatsheet/4/
+---
+
 # Scenario L: Recipe Collection — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

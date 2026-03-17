@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario P: OrderFlow Saga — Distributed Order Fulfillment"
+step_number: 16
+permalink: /steps/16/
+---
+
 # Scenario P: Order Fulfillment Saga — Distributed Workflow Orchestrator
 
 | | |

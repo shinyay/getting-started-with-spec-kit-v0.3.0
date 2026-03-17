@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario R: FlagShip — Feature Flag Experimentation"
+step_number: 18
+permalink: /steps/18/
+---
+
 # Scenario R: Feature Flag & Experimentation Platform
 
 | | |

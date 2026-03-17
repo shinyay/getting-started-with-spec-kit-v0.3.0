@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "MarkdownPad — Answer Key"
+parent_step: 3
+permalink: /cheatsheet/3/
+---
+
 # Scenario K: Markdown Notes — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

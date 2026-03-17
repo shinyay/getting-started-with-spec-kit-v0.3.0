@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Workshop Guide — Facilitator Reference"
+permalink: /workshop-guide/
+---
+
 # Workshop: Spec-Driven Development with Spec Kit
 
 > **From idea to implementation — without vibe coding.**

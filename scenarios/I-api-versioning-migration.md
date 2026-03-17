@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario I: API Versioning — v1→v2 Migration"
+step_number: 13
+permalink: /steps/13/
+---
+
 # Scenario I: API Versioning Migration (v1 → v2)
 
 | | |

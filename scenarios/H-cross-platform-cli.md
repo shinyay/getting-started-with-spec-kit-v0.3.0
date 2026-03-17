@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario H: LogSaw CLI — Cross-Platform Log Parser"
+step_number: 5
+permalink: /steps/5/
+---
+
 # Scenario H: Cross-platform Log Analysis CLI Tool
 
 | | |

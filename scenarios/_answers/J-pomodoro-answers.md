@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Pomodoro Timer — Answer Key"
+parent_step: 2
+permalink: /cheatsheet/2/
+---
+
 # Scenario J: Pomodoro Timer — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

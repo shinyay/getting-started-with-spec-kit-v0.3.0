@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario F: Event Ingestion Pipeline — IoT Data Pipeline"
+step_number: 15
+permalink: /steps/15/
+---
+
 # Scenario F: High-throughput Event Ingestion Pipeline
 
 | | |

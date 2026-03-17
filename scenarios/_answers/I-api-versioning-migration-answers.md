@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "API Versioning — Answer Key"
+parent_step: 13
+permalink: /cheatsheet/13/
+---
+
 # Scenario I — Facilitator Answer Key: API Versioning Migration (v1 → v2)
 
 > **This file is for facilitators only.** Do not distribute to participants before the workshop — it removes the learning value of the clarification phase.

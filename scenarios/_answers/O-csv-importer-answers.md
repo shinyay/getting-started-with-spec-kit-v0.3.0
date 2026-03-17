@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "MoneyTrail — Answer Key"
+parent_step: 8
+permalink: /cheatsheet/8/
+---
+
 # Scenario O: CSV Importer — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.

@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario D: Stripe Subscriptions — Billing + Dunning Flow"
+step_number: 11
+permalink: /steps/11/
+---
+
 # Scenario D: Stripe Subscriptions + Webhooks + Dunning
 
 | | |

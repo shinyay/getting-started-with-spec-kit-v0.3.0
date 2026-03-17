@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Scenario C: OIDC SSO + RBAC — Enterprise Auth System"
+step_number: 10
+permalink: /steps/10/
+---
+
 # Scenario C: Brownfield OIDC SSO + Role-Based Access Control
 
 | | |

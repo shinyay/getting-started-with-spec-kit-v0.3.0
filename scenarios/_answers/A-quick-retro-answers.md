@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "QuickRetro — Answer Key"
+parent_step: 1
+permalink: /cheatsheet/1/
+---
+
 # Scenario A: QuickRetro — Facilitator Answer Key
 
 > **This file is for facilitators only.** Do not share with participants before the `/speckit.clarify` phase.
