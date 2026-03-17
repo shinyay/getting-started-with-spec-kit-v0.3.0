@@ -29,9 +29,6 @@ kramdown:
 plugins:
   - jekyll-remote-theme
 
-include:
-  - scenarios/_answers
-
 exclude:
   - slides/
   - .devcontainer/
