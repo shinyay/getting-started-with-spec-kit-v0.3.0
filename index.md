@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: workshop
 title: "Getting Started with Spec Kit v0.3.0"
 permalink: /
 ---

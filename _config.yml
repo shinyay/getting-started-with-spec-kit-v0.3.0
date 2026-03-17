@@ -18,8 +18,14 @@ workshop:
   difficulty: "Beginner to Expert"
   duration: "90–120 min per scenario"
   language: "Various (JavaScript, Node.js, Python)"
-  repository_url: "https://github.com/shinyay/getting-started-with-spec-kit-v0.3.0"
-  codespaces_url: "https://codespaces.new/shinyay/getting-started-with-spec-kit-v0.3.0"
+  repo_url: "https://github.com/shinyay/getting-started-with-spec-kit-v0.3.0"
+  hub_url: "https://shinyay.github.io/awesome-shinyay-workshop/"
+  prerequisites:
+    - "A GitHub account with GitHub Copilot access"
+    - "A modern web browser (Chrome, Edge, Firefox, or Safari)"
+    - "No local installation required — runs in GitHub Codespaces"
+  show_toc: true
+  show_progress: true
 
 markdown: kramdown
 kramdown:
@@ -46,3 +52,4 @@ exclude:
   - Dockerfile
   - .env
   - SLIDE-PLAN.md
+  - README.md
